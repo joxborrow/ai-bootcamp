@@ -23,6 +23,7 @@ dependencies = [
     "langchain-text-splitters>=0.3.9",
     "langgraph>=0.6.6",
     "langserve>=0.3.1",
+    "mermaid-py>=0.8.0",
     "pydantic>=2.11.7",
     "pymupdf>=1.26.3",
     "pypdf>=5.9.0",
